@@ -1,0 +1,79 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 ArialMT;\f1\froman\fcharset0 Times-Roman;\f2\fnil\fcharset0 Georgia;
+}
+{\colortbl;\red255\green255\blue255;\red52\green52\blue52;\red83\green83\blue83;}
+{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c26667\c26667\c26667;\cssrgb\c40000\c40000\c40000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}.}{\leveltext\leveltemplateid201\'02\'00.;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl460\partightenfactor0
+
+\f0\b\fs39\fsmilli19600 \cf2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 INGREDIENTS\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl300\partightenfactor0
+\ls1\ilvl0
+\f1\b0\fs26 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 4 tsp virgin coconut oil\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 tbsp cumin seeds\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 medium onion, finely chopped\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'be to 1 tsp fine sea salt, to taste, plus a pinch\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 3 large cloves garlic, minced\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 4 tsp grated fresh ginger\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 tsp ground turmeric\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 tsp ground coriander\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \'bc tsp red pepper flakes, or to taste\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 medium/large sweet potato, peeled and cut into \'bc to \'bd inch dice (about 3 cups)\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 (14-oz/398 ml) can chickpeas, drained and rinsed, or 1\'bd cups cooked chickpeas\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 (14-oz/398 ml) can diced tomatoes, with juices\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 (14-oz/400 ml) can light coconut milk (I used regular)\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 1 5-oz/142 g. packaged baby spinach\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Freshly ground black pepper\
+\pard\pardeftab720\sl320\partightenfactor0
+
+\f2\b\fs28 \cf3 \strokec3 For serving\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl300\partightenfactor0
+\ls2\ilvl0
+\f1\b0\fs26 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Cooked basmati rice, quinoa, millet or sorghum (I used brown basmati rice)\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Chopped fresh cilantro leaves\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Unsweetened shredded or large-flake coconut (I used sliced almonds, toasted)\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\'95	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Lime wedges\
+\pard\pardeftab720\partightenfactor0
+
+\f2\fs28 \cf3 \strokec3 \
+\pard\pardeftab720\sl460\partightenfactor0
+
+\f0\b\fs39\fsmilli19600 \cf2 \strokec2 INSTRUCTIONS\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sl300\partightenfactor0
+\ls3\ilvl0
+\f1\b0\fs26 \cf2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 In a large saucepan, heat the oil over medium heat. The oil is hot enough when a cumin seed sizzles when tossed into the pan. Add the cumin seeds and toast for about a minute, until fragrant and lightly darkened in color (be careful not to burn them). Immediately stir in the onion, season with a pinch of salt, and cook for 3 to 5 minutes, or until the onion is soft and translucent.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Add the garlic, ginger, turmeric, coriander, and red pepper flakes. Stir to combine and saut\'e9 for a couple of minutes, until the garlic softens.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Add the sweet potato, chickpeas, tomatoes with their juices, and coconut milk. Stir to combine, cover, and simmer over medium heat for 20 to 30 minutes, until the potatoes are fork tender. At this point, mash one-third of the mixture to thicken the sauce (using a potato masher), but this step is optional.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Stir in the spinach and cook until wilted. Season with the salt and black pepper to taste.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5.	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Serve on a bed of cooked grains, garnished with cilantro and coconut (I topped mine with toasted almonds). If desired, offer lime wedges for squeezing over the curry. Store the cooled curry in an airtight container in the fridge for 4 to 5 days, or in the freezer for up to 1 month.\
+}
